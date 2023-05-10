@@ -14,3 +14,5 @@ for i in range(1, limit+1):
     if(b < 4000000 and b%2 == 0):
         sum+=b
 print(sum)
+
+#Answer = 4613732
